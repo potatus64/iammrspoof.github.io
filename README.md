@@ -1,12 +1,1 @@
-<html>
-<title>
-GET REKT ROVIO LOLOLOL
-</title>
-<head>
-</head>
-<body>
-<pre>
-{"time":1463052443}
-</pre>
-</body>
-</html>
+alternative to rovio's cloud.rovio.com/identity/2.0/time server just in case
