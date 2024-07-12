@@ -1,1 +1,12 @@
-# iammrspoof.github.io
+<html>
+<title>
+GET REKT ROVIO LOLOLOL
+</title>
+<head>
+</head>
+<body>
+<pre>
+{"time":1463052443}
+</pre>
+</body>
+</html>
